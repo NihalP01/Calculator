@@ -24,7 +24,8 @@ A sleek, responsive calculator built with pure JavaScript, HTML, and CSS. Design
 
 ## Showcase 📸
 
-![Calculator Preview](calculator-screenshot.png)
+![Calculator Preview](![Screenshot 2025-03-28 222128](https://github.com/user-attachments/assets/8665447c-ab24-497f-b337-ca8998597961)
+)
 
 
 
